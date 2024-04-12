@@ -1,0 +1,41 @@
+{
+	"data": [
+		{
+			"name": "水利保持系統",
+			"index": "Water_Keeper_System",
+			"components": ["601","401","103","111","104","301","701","801","200","300","310"],
+			"icon": "forest"
+		},
+		{
+			"name": "收藏組件",
+			"index": "favorites",
+			"components": ["108", "22", "79", "60", "107"],
+			"icon": "favorite"
+		},
+		{
+			"name": "圖資資訊",
+			"index": "map-layers",
+			"components": [
+				"32",
+				"15",
+				"105",
+				"109",
+				"91",
+				"11",
+				"14",
+				"115",
+				"9",
+				"16",
+				"30",
+				"106"
+			],
+			"icon": "public"
+		},
+		{
+			"name": "測試組件",
+			"index": "testing",
+			"components": ["117", "118", "61", "74"],
+			"icon": "bug_report"
+		}
+	]
+}
